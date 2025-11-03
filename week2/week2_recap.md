@@ -8,7 +8,7 @@ This analysis provides a concise overview of NBA games played during Week 2 (Oct
 
 ## 1. Overall Game Performance
 
-![NBA Week 2 Recap](./recap.png)
+![NBA Week 2 Recap](./recapw2.png)
 
 ### Key Findings:
 
