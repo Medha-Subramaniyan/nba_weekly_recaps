@@ -1,8 +1,5 @@
 ## NBA Week 3 Recap - Analysis Summary
 
-## Executive Summary
-
-This recap will summarize NBA games played during Week 3 (November 3 – November 9, 2025) once the `week3/week3.ipynb` notebook is executed. Replace the placeholder highlights below with the actual outputs after running the analysis.
 
 ---
 
